@@ -1,0 +1,8 @@
+/home/lolosz/Pulpit/cardreader/cardreader/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/lolosz/Pulpit/cardreader/cardreader/bin/Debug/cardreader.exe.mdb
+/home/lolosz/Pulpit/cardreader/cardreader/bin/Debug/cardreader.exe
+/home/lolosz/Pulpit/cardreader/cardreader/obj/x86/Debug/cardreader.exe
+/home/lolosz/Pulpit/cardreader/cardreader/obj/x86/Debug/cardreader.exe.mdb
+/home/lolosz/Pulpit/cardreader/cardreader/bin/Debug/pcsc-sharp.dll
+/home/lolosz/Pulpit/cardreader/cardreader/bin/Debug/cardreader.pdb
+/home/lolosz/Pulpit/cardreader/cardreader/obj/x86/Debug/cardreader.pdb

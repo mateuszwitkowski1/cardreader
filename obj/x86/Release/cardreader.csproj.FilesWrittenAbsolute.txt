@@ -1,0 +1,2 @@
+/home/lolosz/Pulpit/cardreader/cardreader/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/lolosz/Pulpit/cardreader/cardreader/bin/Release/pcsc-sharp.dll
